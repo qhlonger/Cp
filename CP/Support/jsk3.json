@@ -1,0 +1,255 @@
+
+{
+    "odds": [
+             {
+             "betname": "NOxSJx1",
+             "odds": "1.980",
+             "petname": "三军(1)"
+             },
+             {
+             "betname": "NOxSJx2",
+             "odds": "1.980",
+             "petname": "三军(2)"
+             },
+             {
+             "betname": "NOxSJx3",
+             "odds": "1.980",
+             "petname": "三军(3)"
+             },
+             {
+             "betname": "NOxSJx4",
+             "odds": "1.980",
+             "petname": "三军(4)"
+             },
+             {
+             "betname": "NOxSJx5",
+             "odds": "1.980",
+             "petname": "三军(5)"
+             },
+             {
+             "betname": "NOxSJx6",
+             "odds": "1.980",
+             "petname": "三军(6)"
+             },
+             {
+             "betname": "NOxWTx1",
+             "odds": "1.980",
+             "petname": "围骰(1&1&1)"
+             },
+             {
+             "betname": "NOxWTx2",
+             "odds": "1.980",
+             "petname": "围骰(2&2&2)"
+             },
+             {
+             "betname": "NOxWTx3",
+             "odds": "1.980",
+             "petname": "围骰(3&3&3)"
+             },
+             {
+             "betname": "NOxWTx4",
+             "odds": "1.980",
+             "petname": "围骰(4&4&4)"
+             },
+             {
+             "betname": "NOxWTx5",
+             "odds": "1.980",
+             "petname": "围骰(5&5&5)"
+             },
+             {
+             "betname": "NOxWTx6",
+             "odds": "1.980",
+             "petname": "围骰(6&6&6)"
+             },
+             {
+             "betname": "NOxWTxQuan",
+             "odds": "1.980",
+             "petname": "围骰(全)"
+             },
+             {
+             "betname": "NOxSUMx4",
+             "odds": "1.980",
+             "petname": "总和(4)"
+             },
+             {
+             "betname": "NOxSUMx5",
+             "odds": "1.980",
+             "petname": "总和(5)"
+             },
+             {
+             "betname": "NOxSUMx6",
+             "odds": "1.980",
+             "petname": "总和(6)"
+             },
+             {
+             "betname": "NOxSUMx7",
+             "odds": "1.980",
+             "petname": "总和(7)"
+             },
+             {
+             "betname": "NOxSUMx8",
+             "odds": "1.980",
+             "petname": "总和(8)"
+             },
+             {
+             "betname": "NOxSUMx9",
+             "odds": "1.980",
+             "petname": "总和(9)"
+             },
+             {
+             "betname": "NOxSUMx10",
+             "odds": "1.980",
+             "petname": "总和(10)"
+             },
+             {
+             "betname": "NOxSUMx11",
+             "odds": "1.980",
+             "petname": "总和(11)"
+             },
+             {
+             "betname": "NOxSUMx12",
+             "odds": "1.980",
+             "petname": "总和(12)"
+             },
+             {
+             "betname": "NOxSUMx13",
+             "odds": "1.980",
+             "petname": "总和(13)"
+             },
+             {
+             "betname": "NOxSUMx14",
+             "odds": "1.980",
+             "petname": "总和(14)"
+             },
+             {
+             "betname": "NOxSUMx15",
+             "odds": "1.980",
+             "petname": "总和(15)"
+             },
+             {
+             "betname": "NOxSUMx16",
+             "odds": "1.980",
+             "petname": "总和(16)"
+             },
+             {
+             "betname": "NOxSUMx17",
+             "odds": "1.980",
+             "petname": "总和(17)"
+             },
+             {
+             "betname": "NOxSUMxDa",
+             "odds": "1.980",
+             "petname": "总和(大)"
+             },
+             {
+             "betname": "NOxSUMxXiao",
+             "odds": "1.980",
+             "petname": "总和(小)"
+             },
+             {
+             "betname": "NOxSGx1u1",
+             "odds": "1.980",
+             "petname": "短牌(1&1)"
+             },
+             {
+             "betname": "NOxSGx2u2",
+             "odds": "1.980",
+             "petname": "短牌(2&2)"
+             },
+             {
+             "betname": "NOxSGx3u3",
+             "odds": "1.980",
+             "petname": "短牌(3&3)"
+             },
+             {
+             "betname": "NOxSGx4u4",
+             "odds": "1.980",
+             "petname": "短牌(4&4)"
+             },
+             {
+             "betname": "NOxSGx5u5",
+             "odds": "1.980",
+             "petname": "短牌(5&5)"
+             },
+             {
+             "betname": "NOxSGx6u6",
+             "odds": "1.980",
+             "petname": "短牌(6&6)"
+             },
+             {
+             "betname": "NOxLGx1u2",
+             "odds": "1.980",
+             "petname": "长牌(1&2)"
+             },
+             {
+             "betname": "NOxLGx1u3",
+             "odds": "1.980",
+             "petname": "长牌(1&3)"
+             },
+             {
+             "betname": "NOxLGx1u4",
+             "odds": "1.980",
+             "petname": "长牌(1&4)"
+             },
+             {
+             "betname": "NOxLGx1u5",
+             "odds": "1.980",
+             "petname": "长牌(1&5)"
+             },
+             {
+             "betname": "NOxLGx1u6",
+             "odds": "1.980",
+             "petname": "长牌(1&6)"
+             },
+             {
+             "betname": "NOxLGx2u3",
+             "odds": "1.980",
+             "petname": "长牌(2&3)"
+             },
+             {
+             "betname": "NOxLGx2u4",
+             "odds": "1.980",
+             "petname": "长牌(2&4)"
+             },
+             {
+             "betname": "NOxLGx2u5",
+             "odds": "1.980",
+             "petname": "长牌(2&5)"
+             },
+             {
+             "betname": "NOxLGx2u6",
+             "odds": "1.980",
+             "petname": "长牌(2&6)"
+             },
+             {
+             "betname": "NOxLGx3u4",
+             "odds": "1.980",
+             "petname": "长牌(3&4)"
+             },
+             {
+             "betname": "NOxLGx3u5",
+             "odds": "1.980",
+             "petname": "长牌(3&5)"
+             },
+             {
+             "betname": "NOxLGx3u6",
+             "odds": "1.980",
+             "petname": "长牌(3&6)"
+             },
+             {
+             "betname": "NOxLGx4u5",
+             "odds": "1.980",
+             "petname": "长牌(4&5)"
+             },
+             {
+             "betname": "NOxLGx4u6",
+             "odds": "1.980",
+             "petname": "长牌(4&6)"
+             },
+             {
+             "betname": "NOxLGx5u6",
+             "odds": "1.980",
+             "petname": "长牌(5&6)"
+             }
+             ]
+}

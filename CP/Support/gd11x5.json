@@ -1,0 +1,480 @@
+
+{
+    "odds": [
+             {
+             "betname": "NOx1x1",
+             "odds": "3.960",
+             "petname": "第1球(1)"
+             },
+             {
+             "betname": "NOx1x2",
+             "odds": "3.960",
+             "petname": "第1球(2)"
+             },
+             {
+             "betname": "NOx1x3",
+             "odds": "3.960",
+             "petname": "第1球(3)"
+             },
+             {
+             "betname": "NOx1x4",
+             "odds": "3.960",
+             "petname": "第1球(4)"
+             },
+             {
+             "betname": "NOx1x5",
+             "odds": "3.960",
+             "petname": "第1球(5)"
+             },
+             {
+             "betname": "NOx1x6",
+             "odds": "3.960",
+             "petname": "第1球(6)"
+             },
+             {
+             "betname": "NOx1x7",
+             "odds": "3.960",
+             "petname": "第1球(7)"
+             },
+             {
+             "betname": "NOx1x8",
+             "odds": "3.960",
+             "petname": "第1球(8)"
+             },
+             {
+             "betname": "NOx1x9",
+             "odds": "3.960",
+             "petname": "第1球(9)"
+             },
+             {
+             "betname": "NOx1x10",
+             "odds": "3.960",
+             "petname": "第1球(10)"
+             },
+             {
+             "betname": "NOx1x11",
+             "odds": "3.960",
+             "petname": "第1球(11)"
+             },
+             {
+             "betname": "NOx1xDa",
+             "odds": "3.960",
+             "petname": "第1球(大)"
+             },
+             {
+             "betname": "NOx1xXiao",
+             "odds": "3.960",
+             "petname": "第1球(小)"
+             },
+             {
+             "betname": "NOx1xDan",
+             "odds": "3.960",
+             "petname": "第1球(单)"
+             },
+             {
+             "betname": "NOx1xShuang",
+             "odds": "3.960",
+             "petname": "第1球(双)"
+             },
+             {
+             "betname": "NOx2x1",
+             "odds": "3.960",
+             "petname": "第2球(1)"
+             },
+             {
+             "betname": "NOx2x2",
+             "odds": "3.960",
+             "petname": "第2球(2)"
+             },
+             {
+             "betname": "NOx2x3",
+             "odds": "3.960",
+             "petname": "第2球(3)"
+             },
+             {
+             "betname": "NOx2x4",
+             "odds": "3.960",
+             "petname": "第2球(4)"
+             },
+             {
+             "betname": "NOx2x5",
+             "odds": "3.960",
+             "petname": "第2球(5)"
+             },
+             {
+             "betname": "NOx2x6",
+             "odds": "3.960",
+             "petname": "第2球(6)"
+             },
+             {
+             "betname": "NOx2x7",
+             "odds": "3.960",
+             "petname": "第2球(7)"
+             },
+             {
+             "betname": "NOx2x8",
+             "odds": "3.960",
+             "petname": "第2球(8)"
+             },
+             {
+             "betname": "NOx2x9",
+             "odds": "3.960",
+             "petname": "第2球(9)"
+             },
+             {
+             "betname": "NOx2x10",
+             "odds": "3.960",
+             "petname": "第2球(10)"
+             },
+             {
+             "betname": "NOx2x11",
+             "odds": "3.960",
+             "petname": "第2球(11)"
+             },
+             {
+             "betname": "NOx2xDa",
+             "odds": "3.960",
+             "petname": "第2球(大)"
+             },
+             {
+             "betname": "NOx2xXiao",
+             "odds": "3.960",
+             "petname": "第2球(小)"
+             },
+             {
+             "betname": "NOx2xDan",
+             "odds": "3.960",
+             "petname": "第2球(单)"
+             },
+             {
+             "betname": "NOx2xShuang",
+             "odds": "3.960",
+             "petname": "第2球(双)"
+             },
+             {
+             "betname": "NOx3x1",
+             "odds": "3.960",
+             "petname": "第3球(1)"
+             },
+             {
+             "betname": "NOx3x2",
+             "odds": "3.960",
+             "petname": "第3球(2)"
+             },
+             {
+             "betname": "NOx3x3",
+             "odds": "3.960",
+             "petname": "第3球(3)"
+             },
+             {
+             "betname": "NOx3x4",
+             "odds": "3.960",
+             "petname": "第3球(4)"
+             },
+             {
+             "betname": "NOx3x5",
+             "odds": "3.960",
+             "petname": "第3球(5)"
+             },
+             {
+             "betname": "NOx3x6",
+             "odds": "3.960",
+             "petname": "第3球(6)"
+             },
+             {
+             "betname": "NOx3x7",
+             "odds": "3.960",
+             "petname": "第3球(7)"
+             },
+             {
+             "betname": "NOx3x8",
+             "odds": "3.960",
+             "petname": "第3球(8)"
+             },
+             {
+             "betname": "NOx3x9",
+             "odds": "3.960",
+             "petname": "第3球(9)"
+             },
+             {
+             "betname": "NOx3x10",
+             "odds": "3.960",
+             "petname": "第3球(10)"
+             },
+             {
+             "betname": "NOx3x11",
+             "odds": "3.960",
+             "petname": "第3球(11)"
+             },
+             {
+             "betname": "NOx3xDa",
+             "odds": "3.960",
+             "petname": "第3球(大)"
+             },
+             {
+             "betname": "NOx3xXiao",
+             "odds": "3.960",
+             "petname": "第3球(小)"
+             },
+             {
+             "betname": "NOx3xDan",
+             "odds": "3.960",
+             "petname": "第3球(单)"
+             },
+             {
+             "betname": "NOx3xShuang",
+             "odds": "3.960",
+             "petname": "第3球(双)"
+             },
+             {
+             "betname": "NOx4x1",
+             "odds": "3.960",
+             "petname": "第4球(1)"
+             },
+             {
+             "betname": "NOx4x2",
+             "odds": "3.960",
+             "petname": "第4球(2)"
+             },
+             {
+             "betname": "NOx4x3",
+             "odds": "3.960",
+             "petname": "第4球(3)"
+             },
+             {
+             "betname": "NOx4x4",
+             "odds": "3.960",
+             "petname": "第4球(4)"
+             },
+             {
+             "betname": "NOx4x5",
+             "odds": "3.960",
+             "petname": "第4球(5)"
+             },
+             {
+             "betname": "NOx4x6",
+             "odds": "3.960",
+             "petname": "第4球(6)"
+             },
+             {
+             "betname": "NOx4x7",
+             "odds": "3.960",
+             "petname": "第4球(7)"
+             },
+             {
+             "betname": "NOx4x8",
+             "odds": "3.960",
+             "petname": "第4球(8)"
+             },
+             {
+             "betname": "NOx4x9",
+             "odds": "3.960",
+             "petname": "第4球(9)"
+             },
+             {
+             "betname": "NOx4x10",
+             "odds": "3.960",
+             "petname": "第4球(10)"
+             },
+             {
+             "betname": "NOx4x11",
+             "odds": "3.960",
+             "petname": "第4球(11)"
+             },
+             {
+             "betname": "NOx4xDa",
+             "odds": "3.960",
+             "petname": "第4球(大)"
+             },
+             {
+             "betname": "NOx4xXiao",
+             "odds": "3.960",
+             "petname": "第4球(小)"
+             },
+             {
+             "betname": "NOx4xDan",
+             "odds": "3.960",
+             "petname": "第4球(单)"
+             },
+             {
+             "betname": "NOx4xShuang",
+             "odds": "3.960",
+             "petname": "第4球(双)"
+             },
+             {
+             "betname": "NOx5x1",
+             "odds": "3.960",
+             "petname": "第5球(1)"
+             },
+             {
+             "betname": "NOx5x2",
+             "odds": "3.960",
+             "petname": "第5球(2)"
+             },
+             {
+             "betname": "NOx5x3",
+             "odds": "3.960",
+             "petname": "第5球(3)"
+             },
+             {
+             "betname": "NOx5x4",
+             "odds": "3.960",
+             "petname": "第5球(4)"
+             },
+             {
+             "betname": "NOx5x5",
+             "odds": "3.960",
+             "petname": "第5球(5)"
+             },
+             {
+             "betname": "NOx5x6",
+             "odds": "3.960",
+             "petname": "第5球(6)"
+             },
+             {
+             "betname": "NOx5x7",
+             "odds": "3.960",
+             "petname": "第5球(7)"
+             },
+             {
+             "betname": "NOx5x8",
+             "odds": "3.960",
+             "petname": "第5球(8)"
+             },
+             {
+             "betname": "NOx5x9",
+             "odds": "3.960",
+             "petname": "第5球(9)"
+             },
+             {
+             "betname": "NOx5x10",
+             "odds": "3.960",
+             "petname": "第5球(10)"
+             },
+             {
+             "betname": "NOx5x11",
+             "odds": "3.960",
+             "petname": "第5球(11)"
+             },
+             {
+             "betname": "NOx5xDa",
+             "odds": "3.960",
+             "petname": "第5球(大)"
+             },
+             {
+             "betname": "NOx5xXiao",
+             "odds": "3.960",
+             "petname": "第5球(小)"
+             },
+             {
+             "betname": "NOx5xDan",
+             "odds": "3.960",
+             "petname": "第5球(单)"
+             },
+             {
+             "betname": "NOx5xShuang",
+             "odds": "3.960",
+             "petname": "第5球(双)"
+             },
+             {
+             "betname": "NOx1V2xLong",
+             "odds": "1.980",
+             "petname": "1V2(龙)"
+             },
+             {
+             "betname": "NOx1V2xHu",
+             "odds": "1.980",
+             "petname": "1V2(虎)"
+             },
+             {
+             "betname": "NOx1V3xLong",
+             "odds": "1.980",
+             "petname": "1V3(龙)"
+             },
+             {
+             "betname": "NOx1V3xHu",
+             "odds": "1.980",
+             "petname": "1V3(虎)"
+             },
+             {
+             "betname": "NOx1V4xLong",
+             "odds": "1.980",
+             "petname": "1V4(龙)"
+             },
+             {
+             "betname": "NOx1V4xHu",
+             "odds": "1.980",
+             "petname": "1V4(虎)"
+             },
+             {
+             "betname": "NOx1V5xLong",
+             "odds": "1.980",
+             "petname": "1V5(龙)"
+             },
+             {
+             "betname": "NOx1V5xHu",
+             "odds": "1.980",
+             "petname": "1V5(虎)"
+             },
+             {
+             "betname": "NOx2V3xLong",
+             "odds": "1.980",
+             "petname": "2V3(龙)"
+             },
+             {
+             "betname": "NOx2V3xHu",
+             "odds": "1.980",
+             "petname": "2V3(虎)"
+             },
+             {
+             "betname": "NOx2V4xLong",
+             "odds": "1.980",
+             "petname": "2V4(龙)"
+             },
+             {
+             "betname": "NOx2V4xHu",
+             "odds": "1.980",
+             "petname": "2V4(虎)"
+             },
+             {
+             "betname": "NOx2V5xLong",
+             "odds": "1.980",
+             "petname": "2V5(龙)"
+             },
+             {
+             "betname": "NOx2V5xHu",
+             "odds": "1.980",
+             "petname": "2V5(虎)"
+             },
+             {
+             "betname": "NOx3V4xLong",
+             "odds": "1.980",
+             "petname": "3V4(龙)"
+             },
+             {
+             "betname": "NOx3V4xHu",
+             "odds": "1.980",
+             "petname": "3V4(虎)"
+             },
+             {
+             "betname": "NOx3V5xLong",
+             "odds": "1.980",
+             "petname": "3V5(龙)"
+             },
+             {
+             "betname": "NOx3V5xHu",
+             "odds": "1.980",
+             "petname": "3V5(虎)"
+             },
+             {
+             "betname": "NOx4V5xLong",
+             "odds": "1.980",
+             "petname": "4V5(龙)"
+             },
+             {
+             "betname": "NOx4V5xHu",
+             "odds": "1.980",
+             "petname": "4V5(虎)"
+             }
+             ]
+}
